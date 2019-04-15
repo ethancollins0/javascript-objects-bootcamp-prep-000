@@ -6,4 +6,4 @@ var meals = {
 
 meals.snack = 'yogurt';
 
-console.log(meals.snack)
+console.log(meals['snack'])
