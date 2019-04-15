@@ -5,3 +5,5 @@ var meals = {
 }
 
 meals.snack = 'yogurt';
+
+console.log(meals.snack)
