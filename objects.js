@@ -23,3 +23,5 @@ console.log(meals.dessert)
 console.log(meals.breakfast)
 meals.breakfast = 'cereal'
 console.log(meals.breakfast)
+delete meals.breakfast
+console.log(meals.breakfast)
