@@ -10,4 +10,4 @@ console.log(meals['snack'])
 
 meals['second breakfast'] = 'bagel'
 
-console.log(meals.second_breakfast)
+console.log(meals['second breakfast'])
