@@ -3,3 +3,7 @@ var playlist = {
   John: "Imagine",
   Queen: "Bohemian Rhapsody",
 };
+
+function updatePlaylist(playlist, artistName, songTitle) {
+  playlist.artistName = [songTitle]
+}
