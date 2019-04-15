@@ -1,3 +1,7 @@
-var meals = new Object({breakfast: 'oatmeal'})
-console.log(meals.breakfast)
-console.log(meals['breakfast'])
+var meals = {
+  breakfast: 'oatmeal',
+  lunch: 'burrito',
+  dinner: 'steak'
+}
+
+meals.snack = 'yogurt';
