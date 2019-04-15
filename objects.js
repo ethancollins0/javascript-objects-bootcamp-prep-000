@@ -22,4 +22,4 @@ console.log(meals.dessert)
 
 console.log(meals.breakfast)
 meals.breakfast = 'cereal'
-consol.log(meals.breakfast)
+console.log(meals.breakfast)
