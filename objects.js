@@ -17,3 +17,5 @@ meals[sweetMeal] = 'cake';
 
 meals.dessert // 'cake'
 meals[sweetMeal] // 'cake'
+
+console.log(meals.dessert)
