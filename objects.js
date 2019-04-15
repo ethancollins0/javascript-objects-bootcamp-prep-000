@@ -4,6 +4,6 @@ var playlist = {
   Queen: "Bohemian Rhapsody",
 }
 
-function updatePlaylist(the playlist, ) {
-
+function updatePlaylist(playlist{}, artist, song) {
+  
 }
