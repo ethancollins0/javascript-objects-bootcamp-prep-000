@@ -1,5 +1,6 @@
 var playlist = {
-  artist: "songName"
+  Joyner: "Ultrasound",
+  
 };
 
 function updatePlaylist(playlist, artistName, songTitle) {
